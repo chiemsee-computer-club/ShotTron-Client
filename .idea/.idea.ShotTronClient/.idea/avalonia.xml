@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="src/ShotTronClient/App.axaml" value="src/ShotTronClient/ShotTronClient.csproj" />
+        <entry key="src/ShotTronClient/Views/JoinSession.axaml" value="src/ShotTronClient/ShotTronClient.csproj" />
+        <entry key="src/ShotTronClient/Views/MainWindow.axaml" value="src/ShotTronClient/ShotTronClient.csproj" />
+        <entry key="src/ShotTronClient/Views/StartWindow.axaml" value="src/ShotTronClient/ShotTronClient.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
